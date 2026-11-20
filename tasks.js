@@ -45,37 +45,37 @@
 //   console.log("нужно учиться!");
 // }
 
-let temperature = 12;
-if (temperature > 25) {
-  console.log("жарко");
-} else if (temperature >= 10) {
-  console.log("тепло");
-} else {
-  console.log("холодно");
-}
+// let temperature = 12;
+// if (temperature > 25) {
+//   console.log("жарко");
+// } else if (temperature >= 10) {
+//   console.log("тепло");
+// } else {
+//   console.log("холодно");
+// }
 
-let money = 50;
-if (money > 500) {
-  console.log("Можно купить машинку и останутся деньги.");
-} else if (money === 500) {
-  console.log("Можно купить машинку без сдачи.");
-} else {
-  console.log("Не хватает денег».");
-}
+// let money = 50;
+// if (money > 500) {
+//   console.log("Можно купить машинку и останутся деньги.");
+// } else if (money === 500) {
+//   console.log("Можно купить машинку без сдачи.");
+// } else {
+//   console.log("Не хватает денег».");
+// }
 
-let number = 0;
-if (number >= 1 && number <= 100) {
-  console.log("Число подходит");
-} else {
-  console.log("Число не подходит");
-}
+// let number = 0;
+// if (number >= 1 && number <= 100) {
+//   console.log("Число подходит");
+// } else {
+//   console.log("Число не подходит");
+// }
 
-let player1 = 20;
-let player2 = 20;
-if (player1 > player2) {
-  console.log("Победил первый игрок!");
-} else if (player2 > player1) {
-  console.log("Победил второй игрок!");
-} else {
-  console.log("Ничья!");
-}
+// let player1 = 20;
+// let player2 = 20;
+// if (player1 > player2) {
+//   console.log("Победил первый игрок!");
+// } else if (player2 > player1) {
+//   console.log("Победил второй игрок!");
+// } else {
+//   console.log("Ничья!");
+// }
